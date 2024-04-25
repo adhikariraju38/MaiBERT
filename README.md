@@ -27,12 +27,12 @@ Clone the MaiBERT repository from GitHub to your local machine.
 
 Navigate to the project directory and install the necessary dependencies using npm or yarn.
 
-npm install
+### npm install
 
 ## Run the Application: 
 
 Start the application locally using npm or yarn.
 
-npm start
+### npm start
 
 Explore MaiBERT: Access MaiBERT through your preferred web browser and start exploring the latest news articles across various categories.
