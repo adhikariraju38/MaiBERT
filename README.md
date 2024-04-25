@@ -1,4 +1,4 @@
-## MaiBERT 
+# MaiBERT 
 ```NewsPortal with BERT-powered Backend```
 
 Welcome to MaiBERT, a NewsPortal project powered by BERT for backend operations. MaiBERT is designed to provide an efficient and intuitive platform for news consumption, with features including news fetching, classification, and translation. With its robust backend powered by BERT, MaiBERT offers accurate and dynamic news categorization across 10 different classes.
