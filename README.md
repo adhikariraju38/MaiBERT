@@ -1,5 +1,5 @@
 ## MaiBERT 
-NewsPortal with BERT-powered Backend
+```NewsPortal with BERT-powered Backend```
 
 Welcome to MaiBERT, a NewsPortal project powered by BERT for backend operations. MaiBERT is designed to provide an efficient and intuitive platform for news consumption, with features including news fetching, classification, and translation. With its robust backend powered by BERT, MaiBERT offers accurate and dynamic news categorization across 10 different classes.
 
@@ -27,12 +27,12 @@ Clone the MaiBERT repository from GitHub to your local machine.
 
 Navigate to the project directory and install the necessary dependencies using npm or yarn.
 
-### npm install
+### `npm install`
 
 ## Run the Application: 
 
 Start the application locally using npm or yarn.
 
-### npm start
+### `npm start`
 
 Explore MaiBERT: Access MaiBERT through your preferred web browser and start exploring the latest news articles across various categories.
