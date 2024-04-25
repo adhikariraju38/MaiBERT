@@ -10,13 +10,13 @@ News Fetching: The platform is equipped to fetch news articles from various sour
 Classification: MaiBERT employs advanced classification techniques to categorize news articles into 10 different classes, facilitating easy navigation and access to relevant content.
 Translation: With built-in translation features, MaiBERT enables users to access news articles in multiple languages, breaking down language barriers and promoting inclusivity.
 User-friendly Interface: Developed with React.js, Bootstrap, and CSS, MaiBERT boasts a user-friendly interface designed to enhance usability and accessibility.
+
 Getting Started
 To get started with MaiBERT, follow these steps:
 
 Clone the Repository: Clone the MaiBERT repository from GitHub to your local machine.
 Install Dependencies: Navigate to the project directory and install the necessary dependencies using npm or yarn.
 bash
-Copy code
 npm install
 Run the Application: Start the application locally using npm or yarn.
 bash
